@@ -14,7 +14,7 @@ export default class ContactUs extends Component {
             <input name="name" type="text"  placeholder="Name" />   
             <input name="email" type="text"  placeholder="Email" />   
             <textarea name="message" type="text"  placeholder="Message" />   
-            <input type="submit" value="SUBMIT"/>
+            <button type="submit">Send</button>
             <form/>
               {/* <form name="contact" method="POST" data-netlify="true">
                 <p>
