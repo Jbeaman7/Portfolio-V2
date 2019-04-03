@@ -103,10 +103,7 @@ let resumeData = {
         "description":"Jordan Beaman recently assisted us by redesigning our website.  We were extremely pleased with the end result and with the whole process.  Jordan not only brought our website up to date and made it mobile friendly but he also did a great job of improving the overall appearance.  He added some touches that we would not have thought of such as a button where people could call immediately.  We are not at all tech-savvy so Jordan’s expertise was greatly appreciated.  Jordan is extremely bright and outgoing and is just a pleasure to work with.",
         "name":"Steve and Denise Jarrett - Back Roads Art"
       },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
+    
     ]
   }
   
