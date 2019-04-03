@@ -8,7 +8,8 @@ export default class ContactUs extends Component {
           <div className="row section-head">
             <div className="ten columns">
               <p className="lead">
-              Feel free to contact me for any work or suggestions below
+              Feel free to contact me for any work or suggestions below 
+              (Hey! This is broken right now. Feel free to connect with me on LinkedIn until I can get it fixed. Thanks! 😀 )
               </p>
               <form name="contact" method="POST" data-netlify="true" />     
             <input name="name" type="text"  placeholder="Name" />   
