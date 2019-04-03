@@ -70,24 +70,32 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Curator",
+        "date": "January 2019",
+        "description":"A User-Login web application useful for categorizing bookmarks into collections and individual cards. This was a group project for the University of Kansas Full Stack Coding Bootcamp.",
+        "imgurl":"images/portfolio/modals/curator.jpg",
+        "link": "https://codingcurator.herokuapp.com/login"
+      },
+      {
         "name":"Backroads Art",
-        "description":"This is a site made for a local art shop in Weston, MO made using Bootstrap 4",
-        "imgurl":"images/portfolio/modals/curator.jpg"
+        "date": "January 2019",
+        "description":"This is a site made for a local art shop in Weston, MO made using HTML5 and Bootstrap 4.",
+        "imgurl":"images/portfolio/modals/BRA.png",
+        "link": "http://backroadsartgallery.com"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/coffee.jpg"
+        "name":"React Calculator",
+        "date": "March 2019",
+        "description":"Just a simple calculator made using React for practice.",  
+        "imgurl":"images/portfolio/modals/calculator.png",
+        "link": "https://jbeaman7.github.io/React-Calculator/"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
-      },
-      {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"React Expense Tracker Coding Challenge",
+        "date": "February 2019",
+        "description":"This was an application done for a coding challenge. It was bootstrapped using Create React App, and deployed as a static React site through Github.io using Gh-Pages. A user can enter items from a reciept to organize spending into several categories, and see the total spent. ",
+        "imgurl":"images/portfolio/modals/expense.png",
+        "link": "https://jbeaman7.github.io/Expense-Tracker/"
       }
     ],
     "testimonials":[
