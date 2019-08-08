@@ -334,7 +334,7 @@ ul#nav li.current a { color: #ac8cf1; }
   	-webkit-animation: git 2s ease;
 }
 .reactjs {
-  	width: 85%;
+  	width: 15%;
   	-moz-animation: reactjs 2s ease;
   	-webkit-animation: reactjs 2s ease;
 }
